@@ -1,0 +1,11 @@
+/auth/*
+  Cache-Control: no-store
+  Set-Cookie: __cf_bypass=1
+
+/api/*
+  Cache-Control: no-store
+  Set-Cookie: __cf_bypass=1
+
+/supabase/*
+  Cache-Control: no-store
+  Set-Cookie: __cf_bypass=1
